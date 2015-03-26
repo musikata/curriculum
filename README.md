@@ -28,7 +28,7 @@ Our challenge is to design these episodes effectively. This is not a trivial tas
 
 It is this balancing act that makes curriculum design both challenging and interesting. It is also why we need creative and persistent people to write curriculums.
 
-## Learning from Existing Curriculums
+## Learning from Existing Curricula
 We have much to learn from existing curriculum implementations.
 
 If you are interested in curriculum design, it is well worth studying the "Jump Right In" (JRI) series of instructional books. The JRI books present MLT-inspired curriculums that have been put into use and have been tested in real classrooms. Much thought has gone into the JRI series, and several MLT researchers have contributed to the series. 
@@ -36,6 +36,29 @@ If you are interested in curriculum design, it is well worth studying the "Jump 
 I (Alex) especially recommend the Teachers's Guide for Recorder.
 
 The JRI series is intended primarily for in-classroom teaching. It is worth thinking about how we can adapt JRI sequencing and lessons to online formats.
+
+For example, the JRI recorder curriculum is designed for classes that meet twice per week. Each week corresponds to one unit in the JRI book, and each unit has two sections. The JRI curriculum provides audiation exercises and executive exercises (not excel spreadsheets, but physically controlling an instrument ;) ) to practice between lessons.
+
+It is not clear yet how (or if) we adapt this approach to an online curriculum. Does it make sense to have different types of episodes? For example, we may choose to have 'big' episodes that correspond to JRI teaching sessions, with 'little' practice episodes in-between, corresponding to what a student would practice outside of class.
+
+Or it may make sense to have one type of episode, and we sprinkle in new content and practice review throughout. These things are not clear yet.
+
+The JRI presents a typical lesson structure which may be useful. Each JRI lesson is structured like this:
+
+1.
+ a. Learning a rote song.
+ b. Building coordination for rhythmic motion
+ c. Administrative stuff
+ d. building coordination for instrumental control
+ e. practice tips
+2. 
+ a. Rhythm or Tone Patterns
+ b. Melodic patterns
+3. Suggestions for practicing with the Home-Study CD
+
+This structure is common to all the lesson units in the JRI recorder curriculum. It is designed for the episode format of JRI lessons (2 lessons per week), and the media (in-class presentation, CD recording for home use).
+
+It is not clear yet whether this structure is a good fit for Musikata's episode format. Musikata can provide episodes at any time, on any schedule. Musikata uses different media (web pages). So it's not clear yet whether we should follow the same structure. It is likely that we will want to change somethings, especially due to differences in media and episode scheduling.
 
 ## Sequencing
 MLT provides a framework for thinking about sequencing, but only a framework. There is still a great deal of flexibility in how musical content should be presented. In this section we discuss a few general ideas.
