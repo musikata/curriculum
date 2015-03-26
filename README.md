@@ -71,7 +71,9 @@ It is important to prepare beginners appropriately for more advanced concepts. T
 ## Writing Episodes
 Creating the curriculum largely consists of writing episode scripts, and then creating media to present those scripts in an effective way.
 
-We have come up with a format and a tool for writing effective scripts. In addition, we have guidelines and recommendations as to what makes a good episode script.
+We need to come up with a format and a tool for writing effective scripts. In addition, we have guidelines and recommendations as to what makes a good episode script.
+
+Then we need to make a tool to present those scripts. You can find some thoughts about presentation in this repo: https://github.com/musikata/musikata.kabuki.
 
 ### How to Write a Script
 
