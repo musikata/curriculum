@@ -68,6 +68,34 @@ It is important to prepare beginners appropriately for more advanced concepts. T
 1. Build musical vocabulary with rote songs first before training with patterns. It is important that learners have musical examples in their minds, to give context to patterns.
 1. Make sure that the feeling of flowing rhythmic motion is established. The JRI Recorder book provides several useful exercises for doing this.
 
+### Pacing
+A well-paced curriculum allows a learner to move at a pace that matches her level. Experienced game designers know that games are most fun when they level of challenge pushes a player to the limits of his current skills. Similarly, an engaging curriculum should push a learner to advance her skills.
+
+There are several challenges related to designing a well-paced curriculum.
+
+#### Skill Evaluation
+One challenge is how to evaluate a learner's current skill level. Skill evaluation can be difficult, for several reasons. One reason is that audiation is an opaque process. It happens inside a learner's mind, where we can not see. We can not know if she is audiating or not. We can only observe her actions.
+
+We can gain some information from observing her actions. Can she repeate the melody we just sang? Can she name the tonality of a song?
+
+But measuring and evaluating musical actions is also difficult. For example, if someone make a recording in his phone, it can be difficult to determine what melody he sang. Background noise and poor recording quality make it hard to deduce melodies with just software. *An interesting aside: human teachers are very good at evaluating melodies. Chalk one up for meatware.*
+
+In addition, it can be hard to define what is musically 'correct'. What if someone sings the right notes, but it doesn't sound musical. Should that be evaluated as a 'correct' response? We wrestle with this. Music should be warm. But technology can be cold cold cold.
+
+If you have tips or solutions on how to effectively do musical evaluation in software, we welcome your comments!
+
+So if skill evaluation is difficult, what can we do? One possible option is to have learners self-evaluate.
+
+#### Self-Evaluation
+Self-evaluation is simple to implement. We simple ask the learner, "do you think you got it?" And she responds, "Yes", "No", or "I don't know." And we trust her.
+
+If the learner responds "yes", we advance to the next level. If she responds "no", or "I don't know", we continue to practice at the current level.
+
+Note that we don't want to continue practicing indefinitely. Some beginners have a tendency to obsess over getting things 'exactly right', at the expense of developing their skills more broadly. When something isn't making it sense, a better strategy is often to work on something else and then come back later. When the learner returns, the material seems fresh and new again, and she may have more insights from whatever she just learned. It's like taking a little vacation for the mind.
+
+MLT provides us a good framework for moving around like this, because it describes ways to 'bridge' between skill levels. That is, learners don't necessarily need to proceed in sequence from one skill level to the next. They can can jump around a little.
+
+
 ## Writing Episodes
 Creating the curriculum largely consists of writing episode scripts, and then creating media to present those scripts in an effective way.
 
