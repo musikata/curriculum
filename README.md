@@ -95,6 +95,17 @@ Note that we don't want to continue practicing indefinitely. Some beginners have
 
 MLT provides us a good framework for moving around like this, because it describes ways to 'bridge' between skill levels. That is, learners don't necessarily need to proceed in sequence from one skill level to the next. They can can jump around a little.
 
+#### Content Matching
+If we assume that we can determine a learner's skill level (through self-evaluation or other means), then our next challenge is to provide material at the right level of challenge.
+
+Digital media offer us some interesting ways to approach this challenge, in ways that are not always possible in other media. We can design 'atoms' or 'molecules' of content, where each molecule is associated with a skill level. We can then dynamically tailor episodes for learners by combining molecules with the appropriate skill levels. 
+
+For example, a learner may be at the level of sub-dominant aural recognition in tonal learning sequence, but only at macro/micro beat aural recognition in rhythmic learning sequence. We could assemble an episode on-the-fly that combines (1) a rote song with macro/micro beats and (2) sub-dominant tonal patterns.
+
+However, dynamic episode assembly can also be challenging. How do we create the molecules of learning? How do we weave them together so that episodes still feel cohesive? How do we tie-in story elements, if we don't know the specific structure of each episode?
+
+Contrast dynamic episode creation with static episode creation, as used in the JRI series. The JRI describes a set of static episodes. However, music teachers often reassemble the static episodes depending on the levels of their students. So in many ways, music teachers already do dynamic episode creation. Just not in algorithmic way.
+
 
 ## Writing Episodes
 Creating the curriculum largely consists of writing episode scripts, and then creating media to present those scripts in an effective way.
