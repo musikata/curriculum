@@ -10,7 +10,11 @@ It is inspired by the *Jump Right In Recorder Teacher's Guide* 'teaching procedu
 
 1. Rhythm is part music, rhythm is part of life.
 1. When you breathe, you breathe in rhythm.
+1. Breathe in, breathe out.
+1. (Picture of breathing)
 1. When your heart beats, it beats in rhythm.
+1. Feel your heart beat.
+1. (Picture of hand over heart)
 1. Rhythm is time, weight, flow, and space.
 1. Rhythm is the pulse of music.
 1. Did you know: crickets have rhythm. The speed of a cricket's chirps is related to the temperature.
