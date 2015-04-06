@@ -95,6 +95,24 @@ Note that we don't want to continue practicing indefinitely. Some beginners have
 
 MLT provides us a good framework for moving around like this, because it describes ways to 'bridge' between skill levels. That is, learners don't necessarily need to proceed in sequence from one skill level to the next. They can can jump around a little.
 
+#### Peer Evaluation
+Another strategy for evaluation is to use peer-evaluation. In this strategy, a student's elders would give feedback on a student's recordings, possibly on several criteria.
+
+This approach offers several positive features:
+1. It builds relationships between students.
+1. It encourages the idea of teaching and progress.
+1. It improves the teacher as well: when you teach something, you understand it better.
+1. It scales; as more students join, they can support each other.
+1. It builds a sense of community.
+1. It lets humans do evaluations that would be hard for computers, for evaluating things like expressiveness, musicality, texture, etc.
+
+It does have some risks:
+1. Making sure that the quality of peer feedback is high and not negative.
+1. Supply/demand balance. Will there be enough advanced students to help beginning students?
+
+There may be some ways to incentivize teaching and coaching too. Game points, social badges, rewards, reputation, or gifts.
+
+
 #### Content Matching
 If we assume that we can determine a learner's skill level (through self-evaluation or other means), then our next challenge is to provide material at the right level of challenge.
 
