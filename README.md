@@ -30,7 +30,7 @@ It is this balancing act that makes curriculum design both challenging and inter
 
 Other things to think about:
 - spacing
-- tnterpolated testing, a la: <p>Szpunar K., Khan, N., Schacter, D.&nbsp;(2013):&nbsp;"<a href="https://scholar.google.com/scholar?q=Interpolated+memory+tests+reduce+mind+wandering+and+improve+learning+of+online+lectures&amp;hl=en&amp;as_sdt=0&amp;as_vis=1&amp;oi=scholart&amp;sa=X&amp;ei=SpYdVcH6HM-1ogS7zILABA&amp;ved=0CBwQgQMwAA" target="_blank">Interpolated memory tests reduce mind wandering and improve learning of online lectures</a>," <em>Proceedings of the National Academy of Sciences of the United States (PNAS).</em></p>
+- innterpolated testing, a la: <p>Szpunar K., Khan, N., Schacter, D.&nbsp;(2013):&nbsp;"<a href="https://scholar.google.com/scholar?q=Interpolated+memory+tests+reduce+mind+wandering+and+improve+learning+of+online+lectures&amp;hl=en&amp;as_sdt=0&amp;as_vis=1&amp;oi=scholart&amp;sa=X&amp;ei=SpYdVcH6HM-1ogS7zILABA&amp;ved=0CBwQgQMwAA" target="_blank">Interpolated memory tests reduce mind wandering and improve learning of online lectures</a>," <em>Proceedings of the National Academy of Sciences of the United States (PNAS).</em></p>
 
 ## Learning from Existing Curricula
 We have much to learn from existing curriculum implementations.
@@ -98,6 +98,8 @@ If the learner responds "yes", we advance to the next level. If she responds "no
 Note that we don't want to continue practicing indefinitely. Some beginners have a tendency to obsess over getting things 'exactly right', at the expense of developing their skills more broadly. When something isn't making it sense, a better strategy is often to work on something else and then come back later. When the learner returns, the material seems fresh and new again, and she may have more insights from whatever she just learned. It's like taking a little vacation for the mind.
 
 MLT provides us a good framework for moving around like this, because it describes ways to 'bridge' between skill levels. That is, learners don't necessarily need to proceed in sequence from one skill level to the next. They can can jump around a little.
+
+The research of K. Szpunar et al. also suggests that self-evaluation has its own benefits. When a learner summarizes what she has learned, she integrates knowledge.
 
 #### Peer Evaluation
 Another strategy for evaluation is to use peer-evaluation. In this strategy, a student's elders would give feedback on a student's recordings, possibly on several criteria.
