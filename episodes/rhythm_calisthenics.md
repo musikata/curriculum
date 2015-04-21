@@ -8,22 +8,28 @@ It is inspired by the *Jump Right In Recorder Teacher's Guide* 'teaching procedu
 
 ## Script
 
-1. Rhythm is part music, rhythm is part of life.
+1. Rhythm is the essence of music. Rhythm is the essence of life.
 1. When you breathe, you breathe in rhythm.
-1. Breathe in, breathe out.
+1. Try it: Breathe in, breathe out. Breathe in, breathe out.
 1. (Picture of breathing)
 1. When your heart beats, it beats in rhythm.
-1. Feel your heart beat.
+1. Try it: Feel your heart beat.
 1. (Picture of hand over heart)
+1. Rhythm is the heartbeat of music.
 1. Rhythm is time, weight, flow, and space.
-1. Rhythm is the pulse of music.
-1. Did you know: crickets have rhythm. The speed of a cricket's chirps is related to the temperature.
-1. How do we learn rhythm?
+1. You can get better at sensing rhythm by feeling big beats and little beats.
+1. Big beats are what you tap your toe to.
+1. You can also call big beats 'macrobeats'.
+1. Little beats are what you get when you cut up a big beat.
+1. You can call little beats 'microbeats'.
+1. How do we learn to feel macrobeats and microbeats?
 1. We train. We move.
-1. Motion is essential to feeling rhythm.
+1. Motion is essential to rhythm.
 1. Motion means more than just tapping your toe or your finger.
-1. When you move, you want to get your whole body involved. You want to feel yourself flow.
+1. Motion means moving your whole body.
+1. Motion means feeling yourself flow.
 1. Here are some exercises you can do.
+1. Think of them like sit-ups for your brain.
 1. Try do them for just a few minutes, every day.
 1. First let's get a beat.
 1. (Start a beat at 100 BPM)
