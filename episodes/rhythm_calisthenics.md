@@ -15,10 +15,9 @@ It is inspired by the *Jump Right In Recorder Teacher's Guide* 'teaching procedu
 1. When your heart beats, it beats in rhythm.
 1. Try it: Feel your heart beat.
 1. (Picture of hand over heart)
-1. Rhythm is the heartbeat of music.
-1. Rhythm is time, weight, flow, and space.
-1. You can train your sense of rhythm.
-1. One way to train is to feel big beats and little beats.
+2. Do you feel it? Your body already has rhythm.
+1. You can learn to feel this rhythm.
+1. One way to learn is to feel big beats and little beats.
 1. Big beats are what you tap your toe to.
 1. You can also call big beats 'macrobeats'.
 1. Little beats are what you get when you cut up a big beat.
