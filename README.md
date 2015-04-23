@@ -179,3 +179,8 @@ This is what a very simple script looks like:
 That’s the basic idea. The assets define a list of media assets to load before we start playing the script. Then the steps define a series of steps to take. In this case, we say some dialogue, and play a background beat.
 
 Implementing a script then becomes a matter of having a script player that can handle all of the commands our script defines.
+
+## Random Comments (to be organized later)
+
+### Personal Trainer metaphor
+Perhaps the curriculum can be delivered as kind of a personal trainer, a kind of musical workout.
