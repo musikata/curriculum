@@ -184,3 +184,6 @@ Implementing a script then becomes a matter of having a script player that can h
 
 ### Personal Trainer metaphor
 Perhaps the curriculum can be delivered as kind of a personal trainer, a kind of musical workout.
+
+### About the Music
+It could be cool to talk about the background of songs, when we present musical examples. For example, if we use a nursery rhyme as musical example, we can talk about what the lyrics meant back in the day (like ring-around-the-rosy for the plague). Just to give some more context, and make things interesting. There's a balance here too, we don't want to distract too much from the music itself.
