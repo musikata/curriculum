@@ -32,6 +32,8 @@ Other things to think about:
 - spacing
 - innterpolated testing, a la: <p>Szpunar K., Khan, N., Schacter, D.&nbsp;(2013):&nbsp;"<a href="https://scholar.google.com/scholar?q=Interpolated+memory+tests+reduce+mind+wandering+and+improve+learning+of+online+lectures&amp;hl=en&amp;as_sdt=0&amp;as_vis=1&amp;oi=scholart&amp;sa=X&amp;ei=SpYdVcH6HM-1ogS7zILABA&amp;ved=0CBwQgQMwAA" target="_blank">Interpolated memory tests reduce mind wandering and improve learning of online lectures</a>," <em>Proceedings of the National Academy of Sciences of the United States (PNAS).</em></p>
 
+A possible episode template: [SessionTemplate](SessionTemplate.md).
+
 ## Learning from Existing Curricula
 We have much to learn from existing curriculum implementations.
 
