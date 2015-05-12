@@ -3,12 +3,13 @@ This document describes a possible lesson template.
 Estimated length: 10 minutes?
 
 Goals:
+
 1. Review previous material
-1. Build metacognition skills
-2. Introduce new musical concepts
-3. Give exposure to musical examples
-4. Give basic practice in exercises (?)
-5. Reflect on progress and overall goals
+2. Build metacognition skills
+3. Introduce new musical concepts
+4. Give exposure to musical examples
+5. Give basic practice in exercises (?)
+6. Reflect on progress and overall goals
 
 Based on readings, and brainstorm with Nora L.
 
